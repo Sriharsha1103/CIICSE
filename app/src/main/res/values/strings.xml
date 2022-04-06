@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAppCSEC</string>
+    <string name="enter_first_value">Enter First Number</string>
+    <string name="enter_second_value">Enter Second Value</string>
+    <string name="add_text">Add</string>
+    <string name="default_count">0</string>
+    <string name="second_screen_title">Second Screen</string>
+</resources>
