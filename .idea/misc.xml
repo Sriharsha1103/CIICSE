@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Courses/Mobile Application Development/MyAppCSEC/app/src/main/res/layout/activity_first_screen.xml" value="0.1" />
+        <entry key="..\:/Courses/Mobile Application Development/MyAppCSEC/app/src/main/res/layout/activity_fourth_screen.xml" value="0.19010416666666666" />
+        <entry key="..\:/Courses/Mobile Application Development/MyAppCSEC/app/src/main/res/layout/activity_my_list.xml" value="0.17074275362318841" />
         <entry key="..\:/Courses/Mobile Application Development/MyAppCSEC/app/src/main/res/layout/activity_second_screen.xml" value="0.22" />
+        <entry key="..\:/Courses/Mobile Application Development/MyAppCSEC/app/src/main/res/layout/activity_third_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Courses/Mobile Application Development/MyAppCSEC/app/src/main/res/layout/row_my_fruits.xml" value="0.1893939393939394" />
       </map>
     </option>
   </component>

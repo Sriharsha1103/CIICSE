@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    tools:context=".SecondScreen">
+    tools:context=".FourthScreen">
 
 
     <TextView
@@ -14,12 +14,12 @@
         android:text="@string/default_count"
         android:textSize="32sp"
         android:layout_gravity="center"
-        android:id="@+id/second_result"/>
+        android:id="@+id/fourth_result"/>
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/second_next"
+        android:id="@+id/fourth_next"
         android:text="NEXT"/>
 
 </LinearLayout>

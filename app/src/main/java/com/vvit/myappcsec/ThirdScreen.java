@@ -8,25 +8,25 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-public class SecondScreen extends AppCompatActivity {
+public class ThirdScreen extends AppCompatActivity {
     TextView resultView;
     Button next;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_second_screen);
+        setContentView(R.layout.activity_third_screen);
 
         String result = getIntent().getStringExtra("result");
-        resultView = findViewById(R.id.second_result);
-        next = findViewById(R.id.second_next);
+        resultView = findViewById(R.id.third_result);
+        next = findViewById(R.id.third_next);
 
-        setTitle(R.string.second_screen_title);
+
         resultView.setText(result);
 
         next.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(SecondScreen.this,ThirdScreen.class);
+                Intent intent = new Intent(ThirdScreen.this,FourthScreen.class);
                 startActivity(intent);
             }
         });

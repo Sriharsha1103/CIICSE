@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.vvit.myappcsec">
+
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -12,13 +13,37 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyAppCSEC">
         <activity
+            android:name=".MyListActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".FourthScreen"
+            android:exported="false"
+            android:label="Fourth Screen" />
+        <activity
+            android:name=".ThirdScreen"
+            android:exported="false"
+            android:label="Third Scren" />
+        <activity
+            android:name=".LifeCycle"
+            android:exported="true"></activity>
+        <activity
             android:name=".SecondScreen"
             android:exported="false" />
         <activity
             android:name=".FirstScreen"
             android:exported="true"
             android:label="First Screen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
         <activity
             android:name=".MainActivity"
