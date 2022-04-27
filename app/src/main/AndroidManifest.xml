@@ -13,6 +13,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyAppCSEC">
         <activity
+            android:name=".CRecyclerViewDemo"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name=".MyListActivity"
             android:exported="true">
             <intent-filter>
@@ -31,7 +40,7 @@
             android:label="Third Scren" />
         <activity
             android:name=".LifeCycle"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity
             android:name=".SecondScreen"
             android:exported="false" />

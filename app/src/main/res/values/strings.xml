@@ -5,4 +5,82 @@
     <string name="add_text">Add</string>
     <string name="default_count">0</string>
     <string name="second_screen_title">Second Screen</string>
+    <string-array name="my_animals">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Buffalo</item>
+        <item>Cow</item>
+        <item>Goat</item>
+        <item>Sheep</item>
+        <item>Lion</item>
+        <item>Tiger</item>
+        <item>Wolf</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Buffalo</item>
+        <item>Cow</item>
+        <item>Goat</item>
+        <item>Sheep</item>
+        <item>Lion</item>
+        <item>Tiger</item>
+        <item>Wolf</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Buffalo</item>
+        <item>Cow</item>
+        <item>Goat</item>
+        <item>Sheep</item>
+        <item>Lion</item>
+        <item>Tiger</item>
+        <item>Wolf</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Buffalo</item>
+        <item>Cow</item>
+        <item>Goat</item>
+        <item>Sheep</item>
+        <item>Lion</item>
+        <item>Tiger</item>
+        <item>Wolf</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Buffalo</item>
+        <item>Cow</item>
+        <item>Goat</item>
+        <item>Sheep</item>
+        <item>Lion</item>
+        <item>Tiger</item>
+        <item>Wolf</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Buffalo</item>
+        <item>Cow</item>
+        <item>Goat</item>
+        <item>Sheep</item>
+        <item>Lion</item>
+        <item>Tiger</item>
+        <item>Wolf</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Buffalo</item>
+        <item>Cow</item>
+        <item>Goat</item>
+        <item>Sheep</item>
+        <item>Lion</item>
+        <item>Tiger</item>
+        <item>Wolf</item><item>Cat</item>
+        <item>Dog</item>
+        <item>Buffalo</item>
+        <item>Cow</item>
+        <item>Goat</item>
+        <item>Sheep</item>
+        <item>Lion</item>
+        <item>Tiger</item>
+        <item>Wolf</item>
+
+
+
+
+
+    </string-array>
 </resources>
